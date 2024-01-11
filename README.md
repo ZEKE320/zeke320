@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,eclipse,linux,bash,powershell,vscode,docker,gradle,md,latex,mysql,postgresql,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,eclipse,linux,docker,bash,powershell,vscode,gradle,md,latex,mysql,postgresql,postman)](https://skillicons.dev)
 
 ### Services
 
