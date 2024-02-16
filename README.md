@@ -41,3 +41,7 @@ Here are some ideas to get you started:
 ### Services
 
 [![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+
+### Media
+
+Bluesky (@zeke320.bsky.social) | https://bsky.app/profile/zeke320.bsky.social
