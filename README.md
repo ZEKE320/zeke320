@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 # ZEKE320
 
+[日本語版プロフィールはこちら](README_jp.md)
+
 ### Current Focused Projects
 
 - [Explainable AI based authorship analyzer (Undergraduate Thesis Research)](https://github.com/ZEKE320/shap-authorship-analysis-demo)
