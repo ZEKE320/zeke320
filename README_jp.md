@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 ### 現在注力しているプロジェクト
 
 - [Explainable AI based authorship analyzer (学部卒論研究)](https://github.com/ZEKE320/shap-authorship-analysis-demo)
-  - SHAPによる著者分析のデモ
+  - 文章の特徴を著者ごとに分析する。
+  - 特定の文が誰によって書かれたか予測し、その判定根拠を明らかにする実験用のアプリケーション。
 - [To-Do Map](https://github.com/ZEKE320/todo-map)
   - To-Doをマップ化、達成のアプローチをアドバイスするアプリのプロトタイプ (制作中)
 
