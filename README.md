@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 
 ### Media
 
-Bluesky (@zeke320.bsky.social) | https://bsky.app/profile/zeke320.bsky.social
+Bluesky | [@zeke320.bsky.social](https://bsky.app/profile/zeke320.bsky.social)
