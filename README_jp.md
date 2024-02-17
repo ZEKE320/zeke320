@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### コントリビューション
 
-- 現在は特にないです。
+- 現在は特になし
 
 ### 言語
 
