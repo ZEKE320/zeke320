@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # ZEKE320
 
-[🔴 日本語版プロフィールはこちら](README_jp.md)
+[🔴 日本語のプロフィールはこちら](README_jp.md)
 
 ### Current Focused Projects
 
