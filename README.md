@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 ### Current Focused Projects
 
-- [Explainable AI based authorship analyzer](https://github.com/ZEKE320/shap-authorship-analysis-demo)
+- [Explainable AI based authorship analyzer (Undergraduate Thesis Research)](https://github.com/ZEKE320/shap-authorship-analysis-demo)
 - [To-Do Map](https://github.com/ZEKE320/todo-map)
 
 ### Contributing
 
-- [Python ドキュメント日本語訳プロジェクト](https://github.com/python-doc-ja/python-doc-ja)
+- Nothing in particular for now...
 
 ### Languages
 
