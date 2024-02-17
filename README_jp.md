@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 
 ### 現在注力しているプロジェクト
 
-- [Explainable AI based authorship analyzer (Undergraduate Thesis Research)](https://github.com/ZEKE320/shap-authorship-analysis-demo)
+- [Explainable AI based authorship analyzer (学部卒論研究)](https://github.com/ZEKE320/shap-authorship-analysis-demo)
+  - SHAPによる著者分析のデモ
 - [To-Do Map](https://github.com/ZEKE320/todo-map)
+  - To-Doをマップ化、達成のアプローチをアドバイスするアプリのプロトタイプ (制作中)
 
 ### コントリビューション
 
