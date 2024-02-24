@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### ライブラリ＆フレームワーク
 
-[![My Skills](https://skillicons.dev/icons?i=spring,django,nextjs,nodejs,react,webpack,babel,jquery,bootstrap,materialui,emotion,sklearn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,django,nextjs,nodejs,react,webpack,babel,jquery,bootstrap,materialui,sklearn)](https://skillicons.dev)
 
 ### ツール
 
