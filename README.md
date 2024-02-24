@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,html,css,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,html,css)](https://skillicons.dev)
 
 ### Libraries & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=spring,django,nextjs,nodejs,react,webpack,babel,jquery,bootstrap,materialui,emotion,sklearn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,django,nextjs,nodejs,react,webpack,babel,jquery,bootstrap,materialui,sklearn)](https://skillicons.dev)
 
 ### Tools
 
