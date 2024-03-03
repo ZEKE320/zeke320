@@ -38,21 +38,23 @@ Here are some ideas to get you started:
 
 - None at the moment...
 
-### Languages
+### Skilled
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,html,css)](https://skillicons.dev)
+[![My Skills (Language)](https://skillicons.dev/icons?i=java,js,html,css)](https://skillicons.dev)<br>
+[![My Skills (Library)](https://skillicons.dev/icons?i=spring,jquery,bootstrap)](https://skillicons.dev)<br>
+[![My Skills (Tools)](https://skillicons.dev/icons?i=git,gitlab,eclipse,vscode,md,postgresql)](https://skillicons.dev)
 
-### Libraries & Frameworks
+### Experienced
 
-[![My Skills](https://skillicons.dev/icons?i=spring,django,nextjs,nodejs,react,webpack,babel,jquery,bootstrap,materialui,sklearn)](https://skillicons.dev)
+[![My Skills (Language)](https://skillicons.dev/icons?i=py,ts)](https://skillicons.dev)<br>
+[![My Skills (Library)](https://skillicons.dev/icons?i=django,nextjs,react,nodejs,materialui)](https://skillicons.dev)<br>
+[![My Skills (Tools)](https://skillicons.dev/icons?i=github,linux,docker,bash,powershell,gradle,mysql,postman)](https://skillicons.dev)
 
-### Tools
+### Novice
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,eclipse,linux,docker,bash,powershell,vscode,gradle,md,latex,mysql,postgresql,postman)](https://skillicons.dev)
-
-### Services
-
-[![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+[![My Skills (Library)](https://skillicons.dev/icons?i=sklearn,webpack,babel)](https://skillicons.dev)<br>
+[![My Skills (Tools)](https://skillicons.dev/icons?i=latex)](https://skillicons.dev)<br>
+[![My Skills (Services)](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 
 ### Media
 
