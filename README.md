@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeke320&hide=jupyter%20notebook&theme=github_dark_dimmed )](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#hide-individual-languages)
 [![trophy](https://github-profile-trophy.vercel.app/?username=zeke320&rank=-C&no-frame=true&column=8&margin-w=6&margin-h=6&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Current Focused Projects
+### Current Focusing Projects
 
 - [Explainable AI based authorship analyzer (For the research)](https://github.com/ZEKE320/shap-authorship-analysis-demo)
   - Analyzes the characteristics of texts by author.
