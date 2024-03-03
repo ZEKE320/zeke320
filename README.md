@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 
 [🔴 日本語のプロフィールはこちら](README_jp.md)
 
+### Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeke320&show_icons=true&show=reviews,discussions_started,dicsussions_answered,prs_merged,prs_merged_percentage&theme=github_dark_dimmed )](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#hide-individual-languages)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeke320&hide=jupyter%20notebook&theme=github_dark_dimmed )](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#hide-individual-languages)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zeke320&rank=-C&no-frame=true&column=8&margin-w=6&margin-h=6&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Current Focused Projects
 
 - [Explainable AI based authorship analyzer (For the research)](https://github.com/ZEKE320/shap-authorship-analysis-demo)
