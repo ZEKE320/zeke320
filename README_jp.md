@@ -19,7 +19,13 @@ Here are some ideas to get you started:
 
 [🌐 Click here for the English profile](README.md)
 
-### 現在注力しているプロジェクト
+### Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeke320&show_icons=true&show=reviews,discussions_started,dicsussions_answered,prs_merged,prs_merged_percentage&theme=github_dark_dimmed )](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#hide-individual-languages)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeke320&hide=jupyter%20notebook&theme=github_dark_dimmed )](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#hide-individual-languages)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zeke320&rank=-C&no-frame=true&column=8&margin-w=6&margin-h=6&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Current Focusing Projects
 
 - [Explainable AI based authorship analyzer (研究用)](https://github.com/ZEKE320/shap-authorship-analysis-demo)
   - 文章の特徴を著者ごとに分析する。
@@ -27,25 +33,27 @@ Here are some ideas to get you started:
 - [To-Do Map](https://github.com/ZEKE320/todo-map)
   - To-Doをマップ化、達成のアプローチをアドバイスするアプリのプロトタイプ (制作中)
 
-### コントリビューション
+### Contributions
 
 - 現在は特にありません
 
-### 言語
+### Skilled
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,html,css,sass)](https://skillicons.dev)
+[![My Skills (Language)](https://skillicons.dev/icons?i=java,js,html,css)](https://skillicons.dev)<br>
+[![My Skills (Library)](https://skillicons.dev/icons?i=spring,jquery,bootstrap)](https://skillicons.dev)<br>
+[![My Skills (Tools)](https://skillicons.dev/icons?i=git,gitlab,eclipse,vscode,md,postgresql)](https://skillicons.dev)
 
-### ライブラリ＆フレームワーク
+### Experienced
 
-[![My Skills](https://skillicons.dev/icons?i=spring,django,nextjs,nodejs,react,webpack,babel,jquery,bootstrap,materialui,sklearn)](https://skillicons.dev)
+[![My Skills (Language)](https://skillicons.dev/icons?i=py,ts)](https://skillicons.dev)<br>
+[![My Skills (Library)](https://skillicons.dev/icons?i=django,nextjs,react,nodejs,materialui)](https://skillicons.dev)<br>
+[![My Skills (Tools)](https://skillicons.dev/icons?i=github,linux,docker,bash,powershell,gradle,mysql,postman)](https://skillicons.dev)
 
-### ツール
+### Novice
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,eclipse,linux,docker,bash,powershell,vscode,gradle,md,latex,mysql,postgresql,postman)](https://skillicons.dev)
-
-### サービス
-
-[![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+[![My Skills (Library)](https://skillicons.dev/icons?i=sklearn,webpack,babel)](https://skillicons.dev)<br>
+[![My Skills (Tools)](https://skillicons.dev/icons?i=latex)](https://skillicons.dev)<br>
+[![My Skills (Services)](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 
 ### メディア
 
