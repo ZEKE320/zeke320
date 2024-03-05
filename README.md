@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 
 ### Contributing
 
-- None at the moment...
+- [Skyshare](https://github.com/nkte8/skyshare)
+  - A web application that enables Bluesky users to post simultaneously on Bluesky and X.com (Twitter).
 
 ### Skilled
 
