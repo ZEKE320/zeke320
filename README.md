@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 [🔴 日本語のプロフィールはこちら](README_jp.md)
 
+### Media
+
+Bluesky | [@zeke320.bsky.social](https://bsky.app/profile/zeke320.bsky.social)
+
 ### Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeke320&show_icons=true&show=reviews,discussions_started,dicsussions_answered,prs_merged,prs_merged_percentage&theme=github_dark_dimmed )](https://github.com/anuraghazra/github-readme-stats)
@@ -56,7 +60,3 @@ Here are some ideas to get you started:
 [![My Skills (Library)](https://skillicons.dev/icons?i=sklearn,webpack,babel)](https://skillicons.dev)<br>
 [![My Skills (Tools)](https://skillicons.dev/icons?i=latex)](https://skillicons.dev)<br>
 [![My Skills (Services)](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
-
-### Media
-
-Bluesky | [@zeke320.bsky.social](https://bsky.app/profile/zeke320.bsky.social)
