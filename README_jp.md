@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### Contributions
 
 - [Skyshare](https://github.com/nkte8/skyshare)
-  - BlueskyとX.com(Twitter)への同時投稿を行えるウェブアプリケーション
+  - BlueskyとX.com(Twitter)へ同時投稿を行えるウェブアプリケーション
 
 ### Skilled
 
