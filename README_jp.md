@@ -28,14 +28,15 @@ Here are some ideas to get you started:
 ### Current Focusing Projects
 
 - [Explainable AI based authorship analyzer (研究用)](https://github.com/ZEKE320/shap-authorship-analysis-demo)
-  - 文章の特徴を著者ごとに分析する。
-  - 特定の文が誰によって書かれたか予測し、その判定根拠を明らかにする実験用のアプリケーション。
+  - 文章の特徴を著者ごとに分析する
+  - 特定の文が誰によって書かれたか予測し、その判定根拠を明らかにする実験用のアプリケーション
 - [To-Do Map](https://github.com/ZEKE320/todo-map)
   - To-Doをマップ化、達成のアプローチをアドバイスするアプリのプロトタイプ (制作中)
 
 ### Contributions
 
-- 現在は特にありません
+- [Skyshare](https://github.com/nkte8/skyshare)
+  - BlueskyとX.com(Twitter)への同時投稿を行えるウェブアプリケーション
 
 ### Skilled
 
