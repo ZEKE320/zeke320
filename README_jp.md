@@ -40,7 +40,7 @@ Bluesky | [@zeke320.bsky.social](https://bsky.app/profile/zeke320.bsky.social)
 ### Contributions
 
 - [Skyshare](https://github.com/nkte8/skyshare)
-  - BlueskyとX.com(Twitter)へ同時投稿を行えるウェブアプリケーション
+  - BlueskyとX.com(Twitter)へ同時投稿を行うウェブアプリケーション
 
 ### Skilled
 
