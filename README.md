@@ -25,7 +25,7 @@ Bluesky | [@zeke320.bsky.social](https://bsky.app/profile/zeke320.bsky.social)
 
 ### Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeke320&show_icons=true&show=reviews,discussions_started,dicsussions_answered,prs_merged,prs_merged_percentage&theme=github_dark_dimmed )](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeke320&show_icons=true&rank_icon=github&show=reviews,discussions_started,dicsussions_answered,prs_merged,prs_merged_percentage&theme=github_dark_dimmed )](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeke320&theme=zenburn)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Top Langs by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeke320&theme=zenburn)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![trophy](https://github-profile-trophy.vercel.app/?username=zeke320&rank=-C&no-frame=true&column=8&margin-w=6&margin-h=6&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
