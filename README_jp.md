@@ -30,18 +30,19 @@ Bluesky | [@zeke320.bsky.social](https://bsky.app/profile/zeke320.bsky.social)
 [![Top Langs by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeke320&theme=zenburn)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![trophy](https://github-profile-trophy.vercel.app/?username=zeke320&rank=-C&no-frame=true&column=8&margin-w=6&margin-h=6&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Current Focusing Projects
+
+### Contributions
+
+- [Skyshare](https://github.com/nkte8/skyshare)
+  - BlueskyとX.com(Twitter)へ同時投稿を行うウェブアプリケーション
+
+### My Projects
 
 - [Explainable AI based authorship analyzer (研究用)](https://github.com/ZEKE320/shap-authorship-analysis-demo)
   - 文章の特徴を著者ごとに分析する
   - 特定の文が誰によって書かれたか予測し、その判定根拠を明らかにする実験用のアプリケーション
 - [To-Do Map](https://github.com/ZEKE320/todo-map)
   - To-Doをマップ化、達成のアプローチをアドバイスするアプリのプロトタイプ (制作中)
-
-### Contributions
-
-- [Skyshare](https://github.com/nkte8/skyshare)
-  - BlueskyとX.com(Twitter)へ同時投稿を行うウェブアプリケーション
 
 ### Skilled
 
