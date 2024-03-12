@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ZEKE320
+# ZEKE
 
 [🌐 Click here for the English profile](README.md)
 
