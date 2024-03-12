@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 ### My Projects
 
-- [Explainable AI based authorship analyzer (For the research)](https://github.com/ZEKE320/shap-authorship-analysis-demo)
+- [Explainable AI based authorship analyzer](https://github.com/ZEKE320/shap-authorship-analysis-demo)
   - Analyzes the characteristics of texts by author.
   - An experimental application that predicts who wrote a particular text and clarifies the rationale behind that prediction.
 - [To-Do Map](https://github.com/ZEKE320/todo-map)
-  - A prototype app that maps out To-Dos and advises on approaches to achievement (In progress)
+  - A prototype app that maps out To-Dos and advises on approaches to achievement (Working in progress)
 
 ### Skilled
 
