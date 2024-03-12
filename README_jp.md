@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 
 [🌐 Click here for the English profile](README.md)
 
-### Media
-
-Bluesky | [@zeke320.bsky.social](https://bsky.app/profile/zeke320.bsky.social)
-
 ### Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeke320&show_icons=true&rank_icon=github&show=reviews,discussions_started,dicsussions_answered,prs_merged,prs_merged_percentage&theme=github_dark_dimmed )](https://github.com/anuraghazra/github-readme-stats)<br>
