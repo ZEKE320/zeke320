@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=zeke320&rank=-C&no-frame=true&column=8&margin-w=6&margin-h=6&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-### Contributions
+### Contributig
 
 [![Skyshare](https://github-readme-stats.vercel.app/api/pin/?username=nkte8&repo=skyshare&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
 - BlueskyとX.com(Twitter)へ同時投稿を行うウェブアプリケーション
