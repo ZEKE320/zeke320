@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### Contributing
 
 - [Skyshare](https://github.com/nkte8/skyshare)
-  - A web application that enables you to post simultaneously on Bluesky and X.com (Twitter).
+  - A web application which enables you to post simultaneously on Bluesky and X.com (Twitter).
 
 ### My Projects
 
