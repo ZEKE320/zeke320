@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 ### Contributig
 
-[![Skyshare](https://github-readme-stats.vercel.app/api/pin/?username=nkte8&repo=skyshare&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
-- BlueskyとX.com(Twitter)へ同時投稿を行うウェブアプリケーション
+[![Skyshare](https://github-readme-stats.vercel.app/api/pin/?username=nkte8&repo=skyshare&theme=github_dark_dimmed)](https://github.com/nkte8/skyshare)
+BlueskyとX.com(Twitter)へ同時投稿を行うウェブアプリケーション
 
 ### My Projects
 
