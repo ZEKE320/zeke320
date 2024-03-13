@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 
 ### Contributing
 
-[![Skyshare](https://github-readme-stats.vercel.app/api/pin/?username=nkte8&repo=skyshare&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
-- A web application which enables you to post simultaneously on Bluesky and X.com (Twitter).
+[![Skyshare](https://github-readme-stats.vercel.app/api/pin/?username=nkte8&repo=skyshare&theme=github_dark_dimmed)](https://github.com/nkte8/skyshare)
+- Skyshare
+  - A web application which enables you to post simultaneously on Bluesky and X.com (Twitter).
 
 ### My Projects
 
