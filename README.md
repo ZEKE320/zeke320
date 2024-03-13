@@ -48,12 +48,13 @@ Here are some ideas to get you started:
 
 ### Experienced
 
-[![My Skills (Language)](https://skillicons.dev/icons?i=py,ts)](https://skillicons.dev)<br>
+[![My Skills (Language)](https://skillicons.dev/icons?i=py,ts,sass)](https://skillicons.dev)<br>
 [![My Skills (Library)](https://skillicons.dev/icons?i=django,nextjs,react,nodejs,materialui)](https://skillicons.dev)<br>
-[![My Skills (Tools)](https://skillicons.dev/icons?i=github,linux,docker,bash,powershell,gradle,mysql,postman)](https://skillicons.dev)
+[![My Skills (Tools)](https://skillicons.dev/icons?i=npm,yarn,github,linux,ubuntu,docker,bash,mysql)](https://skillicons.dev)
 
 ### Novice
 
-[![My Skills (Library)](https://skillicons.dev/icons?i=sklearn,webpack,babel)](https://skillicons.dev)<br>
-[![My Skills (Tools)](https://skillicons.dev/icons?i=latex)](https://skillicons.dev)<br>
-[![My Skills (Services)](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+[![My Skills (Language)](https://skillicons.dev/icons?i=c,cpp,pug,regex)](https://skillicons.dev)<br>
+[![My Skills (Library)](https://skillicons.dev/icons?i=flask,prisma,hibernate,sklearn,webpack,babel,tailwind)](https://skillicons.dev)<br>
+[![My Skills (Tools)](https://skillicons.dev/icons?i=latex,cmake,powershell,gradle,postman)](https://skillicons.dev)<br>
+[![My Skills (Services)](https://skillicons.dev/icons?i=vercel,netlify,cloudflare)](https://skillicons.dev)
