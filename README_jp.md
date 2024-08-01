@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ### Beginner
 
-[![My Skills (Language)](https://skillicons.dev/icons?i=c,cpp,pug,regex)](https://skillicons.dev)<br>
+[![My Skills (Language)](https://skillicons.dev/icons?i=rust,c,cpp,pug,regex)](https://skillicons.dev)<br>
 [![My Skills (Library)](https://skillicons.dev/icons?i=flask,prisma,hibernate,webpack,babel)](https://skillicons.dev)<br>
 [![My Skills (Tools)](https://skillicons.dev/icons?i=latex,cmake,powershell,gradle,postman)](https://skillicons.dev)<br>
 [![My Skills (Services)](https://skillicons.dev/icons?i=vercel,netlify,cloudflare)](https://skillicons.dev)
